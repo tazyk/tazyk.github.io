@@ -323,7 +323,7 @@ a:hover, a:active, a:focus {
 
 .work-thumb-overlay {
   position: absolute;
-  background: #6091d6;
+  background: #5f90d4;
   border-radius: 5px;
   cursor: crosshair;
   opacity: 0;
